@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Darshan Pradeepkumar Chouthayi  
 
+![Visitor Count](https://komarev.com/ghpvc/?username=darshanchouthai&color=blue)
+
 Welcome to my profile! I'm a **Computer Science and Engineering** graduate passionate about **Web Development**, **Machine Learning**, and **Security Systems**. My goal is to build innovative solutions that solve real-world problems and make a positive impact.  
 
 I am constantly improving my skills and learning new technologies to stay ahead in this ever-evolving tech world. I love collaborating on projects and am always open to new opportunities to grow professionally.  
@@ -17,7 +19,6 @@ Feel free to explore my work, and don't hesitate to connect with me if you're in
 - **Tools**: Git, GitHub, PyCryptodome, OpenCV  
 
 ---
-![Profile Views](https://visitcount.itsvg.in/api?id=darshanchouthai&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 ## 📈 **GitHub Stats**  
 ![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanchouthai&show_icons=true&theme=radical)
