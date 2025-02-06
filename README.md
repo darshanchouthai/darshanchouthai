@@ -17,6 +17,7 @@ Feel free to explore my work, and don't hesitate to connect with me if you're in
 - **Tools**: Git, GitHub, PyCryptodome, OpenCV  
 
 ---
+![Profile Views](https://visitcount.itsvg.in/api?id=darshanchouthai&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 ## 📈 **GitHub Stats**  
 ![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanchouthai&show_icons=true&theme=radical)
