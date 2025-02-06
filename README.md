@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Darshan Pradeepkumar Chouthayi  
+# Hi there! 👋 I'm **Darshan Pradeepkumar Chouthayi**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=darshanchouthai&color=blue)
 
@@ -11,12 +11,33 @@ Feel free to explore my work, and don't hesitate to connect with me if you're in
 ---
 
 ## 🔧 **Tech Stack**  
-- **Languages**: Python, JavaScript, HTML, CSS  
-- **Web Development**: Flask, Bootstrap  
-- **Machine Learning**: Reinforcement Learning (PPO), TensorFlow, PyTorch  
-- **Security**: RSA Encryption, Face Recognition  
-- **Databases**: MySQL  
-- **Tools**: Git, GitHub, PyCryptodome, OpenCV  
+
+- **Languages**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
+- **Web Development**:  
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+- **Machine Learning**:  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+- **Security**:  
+  ![RSA](https://img.shields.io/badge/RSA-F80000?style=for-the-badge&logo=rsa&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+- **Databases**:  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+- **Tools**:  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![PyCryptodome](https://img.shields.io/badge/PyCryptodome-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
