@@ -13,7 +13,7 @@ Feel free to explore my work, and don't hesitate to connect with me if you're in
 ## 🔧 **Tech Stack**  
 - **Languages**: Python, JavaScript, HTML, CSS  
 - **Web Development**: Flask, Bootstrap  
-- **Machine Learning**: Reinforcement Learning (Q-learning, DQN), TensorFlow, PyTorch  
+- **Machine Learning**: Reinforcement Learning (PPO), TensorFlow, PyTorch  
 - **Security**: RSA Encryption, Face Recognition  
 - **Databases**: MySQL  
 - **Tools**: Git, GitHub, PyCryptodome, OpenCV  
