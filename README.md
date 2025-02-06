@@ -1,4 +1,4 @@
-# [Your Name]
+# Darshan Pradeepkumar Chouthayi
 
 ## About Me
 I am a **Computer Science and Engineering** graduate with a passion for solving complex problems using technology. With experience in **Web Development**, **Machine Learning**, and **Security Systems**, I strive to build solutions that are both practical and impactful. I am constantly seeking to improve my skills and contribute to innovative projects.
