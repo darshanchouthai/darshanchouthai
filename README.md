@@ -1,33 +1,98 @@
-<h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">A passionate frontend  and backend developer from India</h3>
+# [Your Name]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanchouthai&label=Profile%20views&color=0e75b6&style=flat" alt="darshanchouthai" /> </p>
+## About Me
+I am a **Computer Science and Engineering** graduate with a passion for solving complex problems using technology. With experience in **Web Development**, **Machine Learning**, and **Security Systems**, I strive to build solutions that are both practical and impactful. I am constantly seeking to improve my skills and contribute to innovative projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshanchouthai" alt="darshanchouthai" /></a> </p>
+---
 
-- 🔭 I’m currently working on [1](1)
+## Skills
 
-- 🌱 I’m currently learning **1**
+### **Programming Languages**
+- Python
+- JavaScript
+- HTML, CSS
 
-- 👯 I’m looking to collaborate on [1](1)
+### **Web Development**
+- Flask
+- Bootstrap
+- REST APIs
 
-- 🤝 I’m looking for help with [1](1)
+### **Machine Learning**
+- Reinforcement Learning (Q-learning, DQN)
+- TensorFlow, PyTorch
 
-- 👨‍💻 All of my projects are available at [1](1)
+### **Security**
+- RSA Encryption
+- Biometric Authentication (Face Recognition)
 
-- 📝 I regularly write articles on [1](1)
+### **Database**
+- MySQL
 
-- 💬 Ask me about **1**
+### **Tools & Libraries**
+- Face Recognition Library
+- OpenCV
+- PyCryptodome
 
-- 📫 How to reach me **1**
+### **Version Control**
+- Git, GitHub
 
-- 📄 Know about my experiences [1](1)
+---
 
-- ⚡ Fun fact **1**
+## Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### **Digital Signature System with Biometric Authentication**
+A secure system combining **face recognition** for biometric authentication and **RSA** for signature generation, ensuring document integrity and verifying user identity.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- **Technologies**: Python, Flask, MySQL, Face Recognition Library, RSA
+- **Key Features**:
+  - Biometric face recognition for authentication
+  - RSA for secure signature generation and verification
+  - Encrypted document storage
+  - Web-based interface for document management
+
+[GitHub Repository](#)  
+
+---
+
+### **Multi-Object Tracking using Reinforcement Learning**
+A system developed for real-time **multi-object tracking** using **Reinforcement Learning**, capable of predicting object movement with accuracy.
+
+- **Technologies**: Python, OpenCV, Flask, TensorFlow/PyTorch, Q-learning, DQN
+- **Key Features**:
+  - Real-time object tracking and movement prediction
+  - Reinforcement learning model for continuous improvement
+  - Interactive web interface for data visualization
+
+[GitHub Repository](#)  
+
+---
+
+### **Inventory Management System for Small Businesses**
+A web-based **Inventory Management System** designed for small businesses, allowing for efficient stock management and sales tracking.
+
+- **Technologies**: Python, Flask, MySQL, JavaScript, Bootstrap
+- **Key Features**:
+  - Real-time stock tracking and management
+  - Sales report generation
+  - User-friendly interface for easy navigation
+
+[GitHub Repository](#)  
+
+---
+
+## Education
+
+**Bachelor of Technology in Computer Science and Engineering**  
+- **Institution**: [Ramaiah Institute Of Technology]  
+- **Graduation Year**: [2026]  
+
+---
+
+
+
+## Contact
+
+Feel free to reach out to me for collaboration or any opportunities!
+
+- **Email**: [1ms22cs049@msrit.edu]
+- **GitHub**: [https://github.com/darshanchouthai]
